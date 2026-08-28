@@ -116,6 +116,10 @@ The insight generation is rule-based and data-driven. It is designed to demonstr
 
 The cleaned dataset is exported from Python and used as the data source for an interactive Power BI dashboard.
 
+### Dashboard Preview
+
+![Power BI Dashboard](dashboard_preview.png)
+
 The dashboard includes headline KPIs for:
 
 - Total Impressions
@@ -175,6 +179,7 @@ digital-channel-performance-analyzer/
 │
 ├── main.py
 ├── digital_channel_performance_dashboard.pbix
+├── dashboard_preview.png
 └── README.md
 ```
 
